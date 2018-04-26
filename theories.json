@@ -1,0 +1,43 @@
+{
+  "Aviation": {
+    "kashmir-princess": {
+      "description": "1955 bombing of the Kashmir Princess"
+    },
+    "arrow-air": {
+      "description": "the 1985 Arrow Air Flight 1285 crash"
+    },
+    "mozambican-tupolev": {
+      "description": "the 1986 Mozambican Tupolev Tu-134 crash"
+    },
+    "helderberg-disaster": {
+      "description": "the 1987 Helderberg Disaster"
+    },
+    "pan-am-flight-103": {
+      "description": "the 1988 bombing of Pan Am Flight 103"
+    },
+    "kintyre-helicopter": {
+      "description": "the 1994 Mull of Kintyre helicopter crash"
+    },
+    "black-helicopters": {
+      "description": "a United Nations force would soon arrive in black helicopters to bring the U.S. under UN control",
+      "origin": "emerged in the U.S. in the 1960s promoted by The John Birch Society",
+      "related-terms": ["phantom helicopters"]
+    },
+    "chemtrails": {
+      "description": "high-flying jet engines leave a water condensation trail consisting of chemical or biological agents, or contain a supposedly toxic mix of aluminum, strontium and barium",
+      "related-terms": ["contrail", "SLAP", "Secret Large-scale Atmospheric Program"],
+      "support": "17% of people globally believe the theory to be true or partly true",
+      "studies": ["2016 Carnegie Institution for Science"]
+    },
+    "korean-airlines-flight-007": {
+      "description": "The destruction of Korean Air Lines Flight 007 by Soviet jets in 1983 was a planned espionage mission or a US government cover-up"
+    },
+    "malaysia-airlines-flight-mh370": {
+      "description": "The disappearance of Malaysia Airlines Flight 370 in south-east Asia in March 2014 was actually due to the plane being hidden away and reintroduced as Flight MH17 later the same year in order to be shot down over Ukraine for political purposes",
+      "related-terms": ["autopilot technology"],
+      "related-people": ["James H. Fetzer"]
+    },
+    "malaysia-airlines-flight-mh17": {
+      "description": "The Malaysia Airlines Flight 17 shot down over Ukraine by Russia-backed Ukrainian separatists or by Russian military in July 2014 was secretly Flight MH370 and was part of a conspiracy to conceal the truth about HIV"
+  }
+}
